@@ -1,3 +1,6 @@
+CREDIT: to the CSE 12 Faculty and Tutoring Team for providing the interfaces
+for this project and building much of this README
+
 ---
 Lists - Linked List Implementations and JUnit Testing
 ---
